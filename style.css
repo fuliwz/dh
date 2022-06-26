@@ -1,0 +1,30 @@
+*{margin:0; padding:0;}
+body{line-height:22px;font-size:12px;font-family:Arial, Helvetica, sans-serif;color:#8a9ec3;background:#000000;text-align:center;}
+a{color:#00C000; text-decoration:none;}
+a:hover{color:#00FF00;}
+ul,li,form,dd,dl,h3{margin:0; padding:0; list-style:none;}
+#mainbox{margin:0 auto;width:950px;text-align:left;}
+#head{border:1px #8a9ec3 solid;height:85px;margin-top:10px;overflow: hidden;background: #F3F2ED;}
+#head .logo{width: 200px;height: 85px;background: #F3F2ED url(logo.gif) no-repeat center;float: left;}
+#head .logoad{width: 660px;height: 85px;line-height: 20px;float: left;text-align:right;background: #F3F2ED;}
+#head .rs{width: 80px;height: 85px;float: left;text-align: center;}
+#head .rs a {width: 80px;height: 20px;line-height: 20px;text-align: center;float: left;}
+#menu{border:1px #8a9ec3 solid;height:30px;margin-top:10px;overflow: hidden;}
+#menu li{float:left;width:94px;height:30px;line-height:30px;overflow: hidden;text-align:center;}
+#mainbox .notice{border:1px #8a9ec3 solid;margin-top:10px;height:30px;line-height:30px;overflow: hidden;padding:0 20px}
+#mainbox .listbox{padding:0 20px;border:1px #8a9ec3 solid;margin-top:10px;}
+#mainbox .adbox{border:1px #8a9ec3 solid;margin-top:10px;}
+#mainbox .title{clear:both;margin-top:10px;border:1px #8a9ec3 solid;border-bottom:none;height:30px;overflow: hidden;font-weight: bold;float: left;width:948px;font-size: 14px;}
+#mainbox .title li{float:left;padding-left:16px;line-height:30px}
+#mainbox .title li.more{font-size: 12px;float:right;line-height:30px;padding-right:12px}
+
+#mainbox .ilist{width:928px;float:left;border:1px #8a9ec3 solid;padding:5px 10px}
+#mainbox .ilist li{float:left;width:132px;text-overflow:ellipsis;white-space:nowrap;overflow: hidden;}
+#bottom{float:left;margin-top:10px;text-align:center}
+#bottom ul{display : block;border:1px #8a9ec3 solid;width:948px;}
+#mainbox .notice .booklist{line-height:26px;}
+#mainbox .notice .gbooklist{line-height:26px;border-bottom:1px #ccc solid;}
+.bookadmin{color:red}
+textarea.txt_in{width:80%}
+a.hot{background: url(/images/hot.gif) no-repeat left center;padding-left:16px}
+a.new{background: url(/images/new.gif) no-repeat left center;padding-left:16px}
